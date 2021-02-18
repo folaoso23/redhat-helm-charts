@@ -1,0 +1,4 @@
+image:
+  ## Name of the image you want to build/deploy
+  ## Defaults to the release name
+  name: quay.io/ablock/gitops-helm-quarkus
