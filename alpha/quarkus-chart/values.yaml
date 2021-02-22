@@ -70,7 +70,7 @@ build:
 ## Application/Deployment-specific values (For configuring Deployment, Service, Route, ConfigMap, etc)
 deploy:
   ## Number of pod replicas to deploy
-  replicas: 1
+  replicas: 2
 
   ## Freeform resources for Quarkus. More information: https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
   resources:
