@@ -1,1 +1,11 @@
+apiVersion: v2
 name: quarkus
+version: 0.0.3
+description: A Helm chart to build and deploy Quarkus applications
+keywords:
+  - runtimes
+  - quarkus
+dependencies:
+- name: quarkus
+  version: 0.0.3
+  repository: https://github.com/folaoso23/quarkus-helm
