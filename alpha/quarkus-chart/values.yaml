@@ -9,7 +9,7 @@ image:
 build:
   ## Should build-related resources such as BuildConfig and ImageStream be created?
   ## Set this to false if you just want to deploy a previously built image.
-  enabled: true
+  enabled: false
 
   ## Git URI, Ref, and ContextDir
   uri: https://github.com/redhat-developer-helm-quickstarts/quarkus-getting-started
