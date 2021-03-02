@@ -8,4 +8,4 @@ keywords:
 dependencies:
 - name: quarkus
   version: 0.0.3
-  repository: https://github.com/folaoso23/quarkus-helm/charts
+  repository: https://folaoso23.github.io/quarkus-helm
