@@ -8,8 +8,4 @@ keywords:
 dependencies:
 - name: quarkus
   version: 0.0.3
-<<<<<<< HEAD
   repository: https://folaoso23.github.io/quarkus-helm
-=======
-  repository: https://github.com/folaoso23/quarkus-helm
->>>>>>> 5ce3dad60d5401984e63c310bb77d4f47cd262ba
